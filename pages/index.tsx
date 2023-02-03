@@ -22,6 +22,18 @@ export default function Home() {
               SSGサンプル <span>-&gt;</span>
             </h2>
           </Link>
+
+          <Link href="/textStyleComponent">
+            <h2 className={inter.className}>
+              TextStyleComponent <span>-&gt;</span>
+            </h2>
+          </Link>
+
+          <Link href="React/radio-group">
+            <h2 className={inter.className}>
+              RadioExample <span>-&gt;</span>
+            </h2>
+          </Link>
         </div>
       </main>
     </>
