@@ -29,7 +29,7 @@ export default function Home() {
             </h2>
           </Link>
 
-          <Link href="/radio-group">
+          <Link href="React/radio-group">
             <h2 className={inter.className}>
               RadioExample <span>-&gt;</span>
             </h2>
